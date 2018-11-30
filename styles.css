@@ -1,0 +1,53 @@
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.purple {
+    color: purple;
+}
+
+.blue {
+    color: blue;
+}
+
+.orange {
+    color:orange;
+}
+.gold {
+    color: gold;
+}
+
+.brown {
+    color:brown;
+}
+.grey {
+    color:darkgrey;
+}
+.lgrey {
+    color:grey;
+}
+.white {
+    color:white;
+}
+
+body {
+    text-align: center;
+    background-color: darkblue;
+    background-repeat: repeat-x;
+}
+p.a {
+    font-family: "Times New Roman", Times, serif;
+}
+
+p.b {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+    text-align: center;
+}
